@@ -26,3 +26,4 @@ Console.WriteLine($"The Total tasks - : {tasks.Count}");
 
 
 Console.WriteLine("problem this n that");
+Console.WriteLine("the problem #3 is totally solved");
