@@ -18,3 +18,4 @@ Console.WriteLine($"Total tasks: {tasks.Count}");
 
 
 Console.WriteLine("Minor change number 1");
+Console.WriteLine("Minor change number 2");
