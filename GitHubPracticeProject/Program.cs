@@ -24,4 +24,8 @@ for (int index = 0; index < tasks.Count; index++)
 }
 Console.WriteLine($"The Total tasks - : {tasks.Count}");
 
+
+Console.WriteLine("problem this n that");
+Console.WriteLine("the problem #3 is totally solved");
+
 Console.WriteLine("important change");
